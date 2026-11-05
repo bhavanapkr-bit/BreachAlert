@@ -1,0 +1,1 @@
+# BreachAlert — Exposure Monitor\n\nStreamlit dashboard using fictional sample exposure records.\n\n## Run locally\n`python -m pip install -r requirements.txt`\n`streamlit run app.py`\n\nFeatures: overview metrics/charts, search, severity/status filters, CSV export.\n\n**Scope:** Fictional demo data only. Does not search real people or connect to breach databases.\n

@@ -1,0 +1,5 @@
+email,breach_name,exposure_type,breach_date,severity,status,source,note
+alex@example.com,Demo Retail Leak,Email Address,2026-10-12,High,Unresolved,Demo Feed,Fictional sample
+sam@example.org,Demo Forum Exposure,Password,2026-09-28,Critical,Unresolved,Demo Feed,Fictional sample
+user@example.net,Sample Newsletter Incident,Email Address,2026-08-15,Medium,Reviewed,Demo Feed,Fictional sample
+demo.person@example.com,Demo Cloud Exposure,Phone Number,2026-07-03,High,Unresolved,Demo Feed,Fictional sample
